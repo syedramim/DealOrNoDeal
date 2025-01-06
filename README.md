@@ -25,7 +25,7 @@ DealOrNoDeal is a Python-based simulation of the popular game show "Deal or No D
 
 ## Installation
 1. **Clone the Repository:**  
-   `git clone https://github.com/yourusername/DealOrNoDeal.git`
+   `git clone https://github.com/syedramim/DealOrNoDeal.git`
 
 2. **Navigate to the Project Directory:**  
    `cd DealOrNoDeal`
